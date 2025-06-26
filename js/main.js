@@ -30,4 +30,4 @@ else
 
 continuar = confirm("¿Querés hacer otra conversión?")
 
-alert("Gracias por usar el conversor. Hasta la próxima!");
+alert("Gracias por usar el conversor. Hasta la próxima!")
